@@ -1,7 +1,7 @@
 body {
-  padding: 0px;
-  margin: 0px;
-  font-family: "Helvetica", sans-serif;
+  padding: 15px;
+  margin: 15px;
+  font-family: "Courier-New", monospace;
   overflow: hidden;
 }
 
